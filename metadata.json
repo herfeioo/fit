@@ -1,0 +1,6 @@
+{
+  "name": "FitCoach Pro",
+  "description": "Bilingual (English & Persian) intelligent fitness coach with science-based workout generator, exercise animations, YouTube video guides, body tracking, and adaptive overload.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
